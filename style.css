@@ -1,0 +1,21 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 50px;
+    background-color:#ffffff;
+}
+
+h1{
+    color:#000000;
+}
+
+footer{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #ffffff;
+}
+
+h2{
+    color:#000000;
+}
